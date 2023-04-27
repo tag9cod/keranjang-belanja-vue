@@ -17,16 +17,6 @@
 
 ![Target1](./ComponentLayout/Target-1.png)
 
-![Target1](./ComponentLayout/Target-2.png)
-
-![Target1](./ComponentLayout/Target-3.png)
-
-## Component Layout Design
-
-![ComponentLayout](./ComponentLayout/VueComponentLayout-1.png)
-
-![ComponentLayout](./ComponentLayout/VueComponentLayout-2.png)
-
 ## Instructions
 
 Clone the repository first and enter the directory
