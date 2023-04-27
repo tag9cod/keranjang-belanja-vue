@@ -32,13 +32,13 @@
 Clone the repository first and enter the directory
 
 ```bash
-git clone https://github.com/asrofilfachrulr/keranjang-belanja-vue.git
+git clone https://github.com/tag9cod/keranjang-belanja-vue.git
 cd keranjang-belanja-vue
 ```
 
 Then install all dependencies
 
-```bash
+```
 npm install
 composer install
 ```
