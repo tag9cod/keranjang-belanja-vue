@@ -6,15 +6,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Link Page
-
-[CLICK HERE](https://cart-vuejs.vercel.app/) (vercel) to go to the page
-
-
-## Final Look
-
-![Target](./ComponentLayout/Target.png)
-
 ## Instructions
 
 Clone the repository first and enter the directory
