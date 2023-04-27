@@ -15,8 +15,6 @@
 
 ![Target](./ComponentLayout/Target.png)
 
-![Target1](./ComponentLayout/Target-1.png)
-
 ## Instructions
 
 Clone the repository first and enter the directory
